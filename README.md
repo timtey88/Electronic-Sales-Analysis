@@ -1,2 +1,2 @@
 # Electronic-Sales-Analysis
-Practice dataset
+Practice dataset from Keith Galli
